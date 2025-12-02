@@ -1,3 +1,5 @@
 # Remote Sensing Forestry Similarity Convolution
-Already accepted by WACV2026!
+Mangrove Datasets: https://huggingface.co/datasets/WangSK/JZMangrove.
+
+
 
